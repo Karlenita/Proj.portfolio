@@ -1,0 +1,46 @@
+
+body {
+    background-color: yellowgreen;
+    border: black 7px double;
+    max-height: fit-content;
+}
+
+h1 {
+    font-family: 'Ubuntu Condensed', sans-serif;
+    text-align: center;
+    font-size: 250%;
+}
+
+h2 {
+    font-family: 'Ubuntu Condensed', sans-serif;
+    font-size: 200%;
+    text-decoration: underline;
+    padding: 30px 0;
+}
+
+img {
+    height: 500px;
+    width: 600px;
+    border: black solid 3px;
+    float: right;
+    margin: 0 20px;
+}
+
+p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 22px;
+    
+}
+
+.links {
+
+}
+
+.links ul {
+
+}
+
+.links li {
+
+}
+
